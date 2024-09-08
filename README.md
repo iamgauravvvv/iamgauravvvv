@@ -29,20 +29,6 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/gaurav-sharma-498a4a1bb/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/gauravvvw/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/2/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/iamgauravvvv/count.svg?"  />
 </div>
